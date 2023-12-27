@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
-	<string>as.acidanthera.mieze.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>as.devicemanager.mieze.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -27,7 +27,7 @@
 		<key>IntelMausi</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>as.acidanthera.mieze.${PRODUCT_NAME:rfc1034identifier}</string>
+			<string>as.devicemanager.mieze.${PRODUCT_NAME:rfc1034identifier}</string>
 			<key>Driver Parameters</key>
 			<dict>
 				<key>enableCSO6</key>

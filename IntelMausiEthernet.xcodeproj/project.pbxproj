@@ -470,8 +470,8 @@
 					"$(PROJECT_DIR)/MacKernelSDK/Library/x86_64",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				MODULE_NAME = as.acidanthera.mieze.IntelMausi;
-				PRODUCT_BUNDLE_IDENTIFIER = "as.acidanthera.mieze.${PRODUCT_NAME:rfc1034identifier}";
+				MODULE_NAME = as.devicemanager.mieze.IntelMausi;
+				PRODUCT_BUNDLE_IDENTIFIER = "as.devicemanager.mieze.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = kext;
@@ -497,8 +497,8 @@
 					"$(PROJECT_DIR)/MacKernelSDK/Library/x86_64",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				MODULE_NAME = as.acidanthera.mieze.IntelMausi;
-				PRODUCT_BUNDLE_IDENTIFIER = "as.acidanthera.mieze.${PRODUCT_NAME:rfc1034identifier}";
+				MODULE_NAME = as.devicemanager.mieze.IntelMausi;
+				PRODUCT_BUNDLE_IDENTIFIER = "as.devicemanager.mieze.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = kext;
@@ -637,8 +637,8 @@
 					"$(PROJECT_DIR)/MacKernelSDK/Library/x86_64",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
-				MODULE_NAME = as.acidanthera.mieze.IntelMausi;
-				PRODUCT_BUNDLE_IDENTIFIER = "as.acidanthera.mieze.${PRODUCT_NAME:rfc1034identifier}";
+				MODULE_NAME = as.devicemanager.mieze.IntelMausi;
+				PRODUCT_BUNDLE_IDENTIFIER = "as.devicemanager.mieze.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = IntelMausi;
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = kext;
@@ -664,8 +664,8 @@
 					"$(PROJECT_DIR)/MacKernelSDK/Library/x86_64",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
-				MODULE_NAME = as.acidanthera.mieze.IntelMausi;
-				PRODUCT_BUNDLE_IDENTIFIER = "as.acidanthera.mieze.${PRODUCT_NAME:rfc1034identifier}";
+				MODULE_NAME = as.devicemanager.mieze.IntelMausi;
+				PRODUCT_BUNDLE_IDENTIFIER = "as.devicemanager.mieze.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = IntelMausi;
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = kext;

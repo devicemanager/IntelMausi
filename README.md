@@ -1,10 +1,10 @@
 # IntelMausi
 
-[![Build Status](https://github.com/acidanthera/IntelMausi/workflows/CI/badge.svg?branch=master)](https://github.com/acidanthera/IntelMausi/actions) [![Scan Status](https://scan.coverity.com/projects/18406/badge.svg?flat=1)](https://scan.coverity.com/projects/18406)
+[![Build Status](https://github.com/devicemanager/IntelMausi/workflows/CI/badge.svg?branch=master)](https://github.com/devicemanager/IntelMausi/actions) [![Scan Status](https://scan.coverity.com/projects/18406/badge.svg?flat=1)](https://scan.coverity.com/projects/18406)
 
 Intel onboard LAN driver for macOS. Courtesy of [Laura Müller](https://github.com/Mieze),
 refer to [original repository](https://github.com/Mieze/IntelMausiEthernet) for more details.
-This copy includes alterations that are of concern in [Acidanthera](https://github.com/acidanthera)
+This copy includes alterations that are of concern in [devicemanager](https://github.com/devicemanager)
 as well as kernel debugging support initially provided by [aerror2](https://github.com/aerror2) in
 [IntelMausiEthernetWithKernelDebugger](https://github.com/aerror2/IntelMausiEthernetWithKernelDebugger)
 repository. Do use the original version when uncertain. No support or troubleshooting provided.
